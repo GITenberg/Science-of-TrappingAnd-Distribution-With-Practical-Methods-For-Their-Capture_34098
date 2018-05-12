@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '36768'
     url: http://www.gutenberg.org/2009/agents/36768
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34098#Science-of-TrappingAnd-Distribution-With-Practical-Methods-For-Their-Capture
 gutenberg_bookshelf:
 - Animals-Wild-Trapping
 - Animal
