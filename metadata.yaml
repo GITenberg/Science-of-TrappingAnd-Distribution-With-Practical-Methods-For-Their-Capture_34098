@@ -1,0 +1,30 @@
+_repo: Science-of-TrappingAnd-Distribution-With-Practical-Methods-For-Their-Capture_34098
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kreps, Elmer Harry
+    alias: Kreps, E. H. (Elmer Harry)
+    birthdate: 1880
+    gutenberg_agent_id: '36768'
+    url: http://www.gutenberg.org/2009/agents/36768
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Trapping
+- Animal
+gutenberg_issued: '2010-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34098'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SK'
+- !lcsh 'Trapping'
+title: "Science of Trapping\r\nDescribes the Fur Bearing Animals, Their Nature, Habits\
+  \ and Distribution, with Practical Methods for Their Capture"
+url: http://www.gutenberg.org/ebooks/34098
